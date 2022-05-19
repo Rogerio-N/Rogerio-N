@@ -1,4 +1,6 @@
-## Olá, meu nome é Rogério Nakayma 👋
+## Olá, meu nome é Rogério Nakayama 👋
+
+![Pagseguro](https://img.shields.io/badge/Pagseguro-FFC801?style=for-the-badge&logo=pagseguro&logoColor=black)
 
 - Profissional de TI 👩‍💻
 - Amante de jogos e animes
@@ -8,7 +10,7 @@
 
 ### Hardskills
 
-Sou QA e trabalho atualmente com serviços de investimento. Atuo desde a concepção de novas funcionalidades até a sua entrega em produção, realizando testes de integração, teste end-to-end, testes de interface, testes de contrato e dentre muitos outros. Trabalho com as seguintes ferramentas
+Sou QA e trabalho atualmente com serviços de investimento. Atuo desde a concepção de novas funcionalidades até a sua entrega em produção, realizando testes de integração, teste end-to-end, testes de interface, testes de contrato e dentre muitos outros. Meus conhecimentos:  
 
 #### Web
 
@@ -37,6 +39,12 @@ Sou QA e trabalho atualmente com serviços de investimento. Atuo desde a concep�
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+### Projetos
+
+- https://github.com/Rogerio-N/AniAPI-Cypress
+
 <!--
 **Rogerio-N/Rogerio-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
