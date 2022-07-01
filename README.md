@@ -21,8 +21,6 @@ Sou QA e trabalho atualmente com servi√ßos de investimento. Atuo desde a concep√
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-green?style=for-the-badge&logo=cucumber&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=express&logoColor=black)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=black)
-![Springboot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=black)
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=black)
