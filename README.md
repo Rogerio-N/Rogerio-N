@@ -1,6 +1,6 @@
 ## Olá, meu nome é Rogério Nakayama 👋
 
-![Pagseguro](https://img.shields.io/badge/Pagseguro-FFC801?style=for-the-badge&logo=pagseguro&logoColor=black)
+![Pagseguro](https://img.shields.io/badge/Pagbank-FFC801?style=for-the-badge&logo=pagseguro&logoColor=black)
 
 - Profissional de TI 👩‍💻
 - Amante de jogos e animes
@@ -35,13 +35,11 @@ Sou QA e trabalho atualmente com serviços de investimento. Atuo desde a concep�
 
 #### Aprendendo
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium&logoColor=white&color=#43B02A)
 
 ### Projetos
 
-- https://github.com/Rogerio-N/AniAPI-Cypress
+- [Real World App Cypress Testing](https://github.com/Rogerio-N/real-world-cypress-testing)
 
 <!--
 **Rogerio-N/Rogerio-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
