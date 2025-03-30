@@ -39,7 +39,7 @@ Sou QA e trabalho atualmente com serviços de investimento. Atuo desde a concep�
 
 ### Projetos
 
-- [Real World App Cypress Testing](https://github.com/Rogerio-N/real-world-cypress-testing)
+- [Cypress TypeScript Test](https://github.com/Rogerio-N/cypress-ts-test)
 
 <!--
 **Rogerio-N/Rogerio-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
